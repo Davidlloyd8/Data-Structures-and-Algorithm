@@ -25,7 +25,7 @@ console.log(hasPathSum());
 //E.g. 2
 
 var hasPathSum2 = function (root2, targetSum2) {
-  roo2 = [1, 2, 3];
+  root2 = [1, 2, 3];
   targetSum2 = 5;
   if (!root2) return false;
   let hasPath2 = false;
